@@ -1,0 +1,8 @@
+body{
+    background-color: aliceblue;
+    font: optional;font-size: 20sp;
+    font-style: oblique;
+    background-image: -moz-element();
+    background-attachment: fixed
+    ;
+}
